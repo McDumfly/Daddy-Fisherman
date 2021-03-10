@@ -1,0 +1,99 @@
+h1, h2, h3, h4, h5, h6 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    font-size: 54px;
+}
+
+.textTransitionEasterEgg:hover {
+    color: green;
+    transition-duration: 30s;
+    cursor: none;
+}
+
+.forDeafultText0 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 0.5s;
+}
+.forDeafultText1 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 1s;
+}
+.forDeafultText2 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 1.5s;
+}
+.forDeafultText3 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 2s;
+}
+.forDeafultText4 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 2.5s;
+}
+.forDeafultText5 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 3s;
+}
+.forDeafultText6 {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+    transition-duration: 3.5s;
+}
+
+.background-water {
+    background-image: url(images/homepage-background.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+}
+
+.button {
+    color: brown;
+    font-family: cursive;
+    font-weight: 800;
+    text-decoration: underline;
+    text-align: center;
+    cursor: pointer;
+    font-size: 34px;
+}
+
+.button:hover {
+    color: green;
+    transition-duration: 0.5s;
+    font-family: cursive;
+    font-weight: 800;
+    text-decoration: underline;
+    text-align: center;
+    cursor: pointer;
+    font-size: 34px;
+}
+
+.text {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 800;
+}
